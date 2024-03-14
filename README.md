@@ -46,4 +46,10 @@ Email: joseph123nimyel@gmail.com
 
 #### Coding Stats
 <!--START_SECTION:waka-->
+
+```txt
+Markdown   2 mins          ████████████████████████▒   96.86 %
+YAML       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+```
+
 <!--END_SECTION:waka-->
