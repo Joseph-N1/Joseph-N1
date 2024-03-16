@@ -48,8 +48,10 @@ Email: joseph123nimyel@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   1 hr 5 mins     ██████████████████▒░░░░░░   73.10 %
-YAML       23 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.90 %
+Markdown   1 hr 13 mins    ███████████████▓░░░░░░░░░   62.50 %
+YAML       23 mins         █████░░░░░░░░░░░░░░░░░░░░   20.31 %
+HTML       15 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.00 %
+CSS        4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
 ```
 
 <!--END_SECTION:waka-->
