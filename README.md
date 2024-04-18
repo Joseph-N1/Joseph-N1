@@ -48,7 +48,9 @@ Email: joseph123nimyel@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other      1 hr 46 mins    █████████████████████▒░░░   85.00 %
+Markdown   18 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.84 %
+CSS        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
