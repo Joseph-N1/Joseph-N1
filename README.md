@@ -18,7 +18,16 @@ I'm Joseph Nimyel, a Full Stack Web Developer, copywriter, and Machine Learning 
 
 #### Top Technologies
 <!-- TODO: Make technologies links takes you to repositories -->
-![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)   ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)   ![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)   ![Visual Studio Code Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-007acc?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=007acc)   ![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)
+![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)   
+![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)   
+![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)   
+![Visual Studio Code Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-007acc?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=007acc)   
+![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)   
+![Tailwind CSS Badge](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=38B2AC)   
+![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)   
+![PowerPoint Badge](https://img.shields.io/badge/-PowerPoint-B7472A?style=for-the-badge&labelColor=black&logo=microsoft-powerpoint&logoColor=B7472A)   
+![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)   
+
 
 #### Bizness
 
