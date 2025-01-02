@@ -49,11 +49,11 @@ Email: joseph123nimyel@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-Python       1 hr 1 min      ██████▒░░░░░░░░░░░░░░░░░░   24.83 %
-TypeScript   52 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.43 %
-JavaScript   44 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.15 %
-TSConfig     28 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
-JSON         23 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 %
+JavaScript   2 hrs 38 mins   █████████░░░░░░░░░░░░░░░░   36.24 %
+Python       1 hr 12 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.51 %
+TypeScript   55 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.59 %
+CSS          41 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.44 %
+TSConfig     40 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
 ```
 
 <!--END_SECTION:waka-->
