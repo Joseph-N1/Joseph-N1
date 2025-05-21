@@ -49,10 +49,11 @@ Email: joseph123nimyel@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-SSH Config   2 mins          ████████▒░░░░░░░░░░░░░░░░   33.79 %
-Other        2 mins          ████████▒░░░░░░░░░░░░░░░░   32.98 %
-JSON         2 mins          ███████▓░░░░░░░░░░░░░░░░░   31.17 %
-Git Config   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+SSH Config   2 mins          ███████▓░░░░░░░░░░░░░░░░░   30.29 %
+Other        2 mins          ███████▒░░░░░░░░░░░░░░░░░   29.57 %
+JSON         2 mins          ███████░░░░░░░░░░░░░░░░░░   27.95 %
+JavaScript   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
+HTML         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
 ```
 
 <!--END_SECTION:waka-->
