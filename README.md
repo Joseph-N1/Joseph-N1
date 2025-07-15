@@ -49,8 +49,8 @@ Email: joseph123nimyel@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-Python   2 hrs 19 mins   ███████████████████▒░░░░░   76.91 %
-JSON     41 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.01 %
+Python   2 hrs 19 mins   ████████████████████▓░░░░   82.29 %
+JSON     29 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.63 %
 HTML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
