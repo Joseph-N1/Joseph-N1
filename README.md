@@ -49,11 +49,10 @@ Email: joseph123nimyel@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-Text         14 mins         ████████████░░░░░░░░░░░░░   48.04 %
-Python       12 mins         ██████████▓░░░░░░░░░░░░░░   42.73 %
-Docker       1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
-Git Config   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
-JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+Python       12 mins         █████████████████████▒░░░   85.31 %
+Docker       1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.98 %
+Git Config   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
