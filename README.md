@@ -49,11 +49,11 @@ Email: joseph123nimyel@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   3 hrs 22 mins   █████████▓░░░░░░░░░░░░░░░   39.21 %
-Markdown     1 hr 46 mins    █████░░░░░░░░░░░░░░░░░░░░   20.62 %
-Text         51 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
-JSON         49 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 %
-Git Config   27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+TypeScript   3 hrs 22 mins   ███████████▒░░░░░░░░░░░░░   45.11 %
+JSON         49 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 %
+Text         49 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 %
+Markdown     47 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.54 %
+JavaScript   26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
 ```
 
 <!--END_SECTION:waka-->
