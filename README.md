@@ -49,11 +49,11 @@ Email: joseph123nimyel@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-Python       1 hr 1 min            ████████████▓░░░░░░░░░░░░   50.52 %
-PowerShell   30 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.02 %
-Markdown     14 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.51 %
-Git Config   12 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.21 %
-JavaScript   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+Python       1 hr 1 min            ██████████████░░░░░░░░░░░   56.44 %
+PowerShell   17 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.22 %
+Markdown     14 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.86 %
+Git Config   12 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
+JavaScript   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
 ```
 
 <!--END_SECTION:waka-->
