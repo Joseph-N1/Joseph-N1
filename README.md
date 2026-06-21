@@ -49,11 +49,11 @@ Email: joseph123nimyel@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-Text         33 mins               ████████████████▒░░░░░░░░   65.02 %
-Other        7 mins                ████░░░░░░░░░░░░░░░░░░░░░   15.48 %
-Batchfile    3 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
-JavaScript   3 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
-Python       2 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
+Text         33 mins               ███████████████▒░░░░░░░░░   61.25 %
+Other        7 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   14.58 %
+Batchfile    3 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
+JavaScript   3 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
+Git Config   3 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
 ```
 
 <!--END_SECTION:waka-->
