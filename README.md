@@ -49,11 +49,7 @@ Email: joseph123nimyel@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-Other        49 mins               ████████████░░░░░░░░░░░░░   47.67 %
-TOML         14 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 %
-Markdown     13 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.59 %
-Bash         12 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.31 %
-Batchfile    7 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
+Other   38 mins               █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
